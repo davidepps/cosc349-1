@@ -1,0 +1,15 @@
+import java.time.LocalDateTime;
+import java.time.ZoneId;
+import java.time.format.DateTimeFormatter;
+
+public class LocalTimeZone {
+
+private static final String DATE_FORMAT = "dd-MM-yyyy hh:mm:ss a z";
+private static final DateTimeFormatter formatter = DateTimeFormatter.ofPattern(DATE_FORMAT);
+
+public static void main(String[] args) {
+LocalDateTime today = LocalDateTime.now();
+System.out.println();
+
+}
+}
