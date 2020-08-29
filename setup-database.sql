@@ -8,7 +8,7 @@ INSERT INTO timezones VALUES ('Pacific/Honolulu', -10.00);
 INSERT INTO timezones VALUES ('Pacific/Gambier', -9.00);
 INSERT INTO timezones VALUES ('Pacific/Pitcairn', -8.00);
 INSERT INTO timezones VALUES ('America/Phoenix', -7.00);
-INSERT INTO timezones VALUES ('Pacific/Galapagos', -6.00);
+INSERT INTO timezones VALUES ('Chile/EasterIsland', -6.00);
 INSERT INTO timezones VALUES ('America/Chicago', -5.00);
 INSERT INTO timezones VALUES ('America/New_York', -4.00);
 INSERT INTO timezones VALUES ('America/Argentina/Buenos_Aires', -3.00);
