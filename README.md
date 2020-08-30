@@ -2,7 +2,7 @@
 ## Timezone Converter
 Pair Project
 
-Brittany Duncan (6805461) and David Epps (3017072)
+Brit Duncan (6805461) and David Epps (3017072)
 
 To use the timezone converter clone the repository into your local directory
 make sure you have changed into the correct directory and type 'vagrant up --provider virtualbox'.
